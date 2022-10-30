@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2001202045_VuNgoDat_SM24_Buoi7", "2001202045_VuNgoDat_SM24_Buoi7\2001202045_VuNgoDat_SM24_Buoi7.csproj", "{8FADDC0C-C887-48FB-80C9-A0838F15B9C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTNET.Core", "BTNET.Core\BTNET.Core.csproj", "{EF6B72AF-F556-4343-9E84-FF244582A14A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FADDC0C-C887-48FB-80C9-A0838F15B9C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FADDC0C-C887-48FB-80C9-A0838F15B9C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FADDC0C-C887-48FB-80C9-A0838F15B9C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FADDC0C-C887-48FB-80C9-A0838F15B9C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF6B72AF-F556-4343-9E84-FF244582A14A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF6B72AF-F556-4343-9E84-FF244582A14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF6B72AF-F556-4343-9E84-FF244582A14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF6B72AF-F556-4343-9E84-FF244582A14A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {880B63B6-248C-41FD-9507-7AB5DC224E4B}
+	EndGlobalSection
+EndGlobal
